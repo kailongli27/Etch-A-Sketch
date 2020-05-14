@@ -1,0 +1,43 @@
+.title {
+    color: #cecbcb;
+    background-color: rgba(255, 255, 255, 0.9);
+    font-size: 60px;
+    text-shadow: -1px -1px 1px rgba(255,255,255,.1), 1px 1px 1px rgba(0,0,0,.5);
+    display: inline-block;
+    margin: auto auto 20px auto;
+  }
+
+.cell {
+    display: inline-block;
+    border: 1px solid lightgrey;
+    vertical-align: top;
+    box-sizing: border-box;
+    color: white;
+}
+
+.my-colour-class{
+    background: black;
+}
+
+#container {
+    border: solid 1px lightgray;
+    display: block;
+	height: 550px;
+    width: 550px;
+    margin: 18px auto auto auto;
+    background-color: white;
+}
+
+body {
+    background-image: url(assets/doodle.jpg);
+    text-align: center;
+}
+
+button {
+    margin: auto;
+    text-align: center;
+    background-color: lightsteelblue;
+    font-size: 18px;
+    border-radius: 25%;
+    padding: 7px;
+}
