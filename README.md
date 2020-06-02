@@ -3,4 +3,5 @@ A browser version of a sketchpad built with HTML, CSS, and Javascript. You can d
 
 Click [here](https://kailongli27.github.io/Etch-A-Sketch/) to give it a try!
 
+
 ![Image of website](https://github.com/kailongli27/Etch-A-Sketch/blob/master/Screenshot.PNG)
